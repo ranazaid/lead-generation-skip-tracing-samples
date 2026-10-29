@@ -1,0 +1,52 @@
+﻿"DEMO SAMPLE · fictional data · every name, company, address, phone (555-01XX) and email in this file is invented for portfolio purposes · Zaid Mubbasher · B2B Lead Generation & Skip Tracing",,,,,,,,,,,,,,,,,,
+Record ID,Owner 1,Property Address,City,ZIP,Old Phone (client),Old Result,Change,New Phone 1,New Phone 1 Type,New Phone 1 Status,New Phone 2,New Phone 2 Type,New Phone 2 Status,DNC (Any),Email 1,Confidence,Source,Notes
+OK-2200,Hiro Engstrom,3928 Wexmoor Trl,Oklahoma City,73112,(405) 555-0110,Wrong person,Replaced,(405) 555-0194,Mobile,Active,(405) 555-0161,Mobile,Active,N,hiroe28@example.com,High,BatchData,
+OK-2201,Michael Bianchi,6183 Yarrowfield Pl,Del City,73164,(405) 555-0135,Wrong person,Replaced,(572) 555-0180,Mobile,Active,(572) 555-0171,Mobile,Active,N,,High,BatchData,
+OK-2203,Darnell Voss,2347 Thistlewade Ave,Oklahoma City,73175,(405) 555-0198,Wrong person,Replaced,(405) 555-0115,Landline,Active,,,,Y,darnell_voss@example.net,Medium,BatchData,Old number belonged to prior owner
+OK-2204,Elliot Espinoza,15368 Marrowgate Ct,Midwest City,73168,(405) 555-0143,Wrong person,Added 2nd line,(539) 555-0115,Mobile,Active,(918) 555-0134,Landline,Unverified,Y,elliot.espinoza@example.net,High,REISkip,
+OK-2205,Heather Huang,176 Quillmere Pkwy,Oklahoma City,73176,(405) 555-0103,Disconnected,Replaced,(405) 555-0141,Landline,Active,(405) 555-0145,Landline,Active,Y,heather.huang@example.org,High,BatchData,Old number belonged to prior owner
+OK-2206,Eduardo Ziegler,5589 Copperwyn Ct,Oklahoma City,73138,(405) 555-0163,Wrong person,Replaced,(405) 555-0180,Landline,Active,(405) 555-0137,Mobile,Active,Y,eziegler91@example.org,High,REISkip,
+OK-2207,Megan Esposito,3254 Heathermoor Rd,Bethany,73058,(572) 555-0156,Disconnected,Replaced,(405) 555-0199,Mobile,Active,(572) 555-0103,Mobile,Active,Y,esposito.megan73@example.com,High,BatchData,New mobile confirmed by 2 sources
+OK-2208,Tomas Rasmussen,1037 Lowther Ct,Edmond,73019,(918) 555-0130,No answer x6,Replaced,(405) 555-0102,Mobile,Active,,,,N,rasmussen.tomas12@example.com,High,REISkip,New mobile confirmed by 2 sources
+OK-2209,Maria Gutierrez,10508 Juniveil Rd,Midwest City,73175,(405) 555-0147,No answer x6,Replaced,(405) 555-0190,VoIP,Active,(405) 555-0123,Mobile,Active,N,gutierrez.maria71@example.net,High,BatchData,Old number belonged to prior owner
+OK-2210,Theresa Hargrove,8302 Kestralyn Ave,Del City,73171,(405) 555-0104,Wrong person,Replaced,(405) 555-0138,Mobile,Active,,,,N,theresa.hargrove@example.com,High,REISkip,
+OK-2211,Yara Delgado,3362 Copperwyn Ave,Oklahoma City,73197,(405) 555-0119,Disconnected,Added 2nd line,(405) 555-0152,Mobile,Active,,,,N,yara_delgado@example.net,High,REISkip,
+OK-2212,Jamal Rasmussen,3461 Abbotsbrae Pkwy,Edmond,73063,(405) 555-0109,Wrong person,Added 2nd line,(539) 555-0104,Mobile,Active,(405) 555-0182,Mobile,Unverified,Y,jamal_rasmussen@example.com,High,BatchData,New mobile confirmed by 2 sources
+OK-2213,Tamsin Pacheco,5351 Wrenfield Rd,Oklahoma City,73135,(405) 555-0192,Disconnected,Replaced,(405) 555-0124,Mobile,Active,(405) 555-0139,Landline,Active,Y,,High,BatchData,New mobile confirmed by 2 sources
+OK-2214,Irene Dubois,14158 Tumbleford Ave,Oklahoma City,73177,(918) 555-0105,Disconnected,Replaced,(405) 555-0160,VoIP,Active,(580) 555-0108,Mobile,Disconnected,N,irened69@example.net,Medium,REISkip,
+OK-2215,Priya Cho,10653 Larchwick Rd,Oklahoma City,73175,(405) 555-0179,Disconnected,Added 2nd line,(405) 555-0178,VoIP,Active,,,,N,cho.priya24@example.com,Medium,BatchData,New mobile confirmed by 2 sources
+OK-2216,Hollis Toussaint,2371 Silverquill Pl,Bethany,73063,(572) 555-0139,No answer x6,Replaced,(405) 555-0173,Landline,Active,,,,N,hollist78@example.com,Medium,BatchData,New mobile confirmed by 2 sources
+OK-2217,Lamar Ruiz,6475 Heathermoor Loop,Oklahoma City,73149,(918) 555-0173,Fax tone,Replaced,(405) 555-0116,Mobile,Active,(405) 555-0108,VoIP,Unverified,N,lruiz34@example.com,High,BatchData,
+OK-2218,Imani Fontaine,8460 Tallowmere Ter,Edmond,73041,(539) 555-0179,Disconnected,Added 2nd line,(918) 555-0149,Mobile,Active,(405) 555-0107,Mobile,Disconnected,N,imani.fontaine@example.com,High,REISkip,New mobile confirmed by 2 sources
+OK-2219,Dolores Engstrom,3425 Pellingham Blvd,Edmond,73025,(405) 555-0183,Disconnected,Replaced,(405) 555-0130,VoIP,Active,,,,N,engstrom.dolores14@example.com,Medium,BatchData,
+OK-2220,Zachary Okonkwo,2615 Emberly Ct,Midwest City,73107,(405) 555-0175,Wrong person,Replaced,(405) 555-0195,VoIP,Active,(580) 555-0182,VoIP,Disconnected,N,,Low,REISkip,New mobile confirmed by 2 sources
+OK-2221,Brian Jaramillo,1533 Tallowmere Way,Midwest City,73150,(405) 555-0136,Wrong person,Replaced,(405) 555-0155,Mobile,Active,,,,N,brian_jaramillo@example.net,High,BatchData,
+OK-2222,Elliot Bianchi,14272 Wrenfield Rd,Del City,73173,(405) 555-0174,Wrong person,Added 2nd line,(405) 555-0127,Mobile,Active,,,,N,elliotbianchi31@example.com,High,Manual (2nd source),
+OK-2223,Heather Ingram,5633 Calderwick Trl,Oklahoma City,73145,(405) 555-0176,Wrong person,Replaced,(405) 555-0117,VoIP,Active,(405) 555-0133,Mobile,Active,Y,,Medium,REISkip,
+OK-2224,Grace Kowalczyk,18576 Gallowbrook Pkwy,Oklahoma City,73198,(405) 555-0118,No answer x6,Added 2nd line,(405) 555-0131,Mobile,Active,,,,N,,Medium,BatchData,Old number belonged to prior owner
+OK-2225,Simon Toussaint,6005 Fallowmere Ter,Midwest City,73139,(539) 555-0129,No answer x6,Replaced,(580) 555-0137,Mobile,Unverified,,,,N,,Low,Manual (2nd source),Old number belonged to prior owner
+OK-2226,Leilani Calloway,12513 Hollisbrook Pl,Bethany,73064,(405) 555-0148,Wrong person,Added 2nd line,(572) 555-0165,Landline,Active,(572) 555-0106,VoIP,Active,N,leilanicalloway54@example.net,High,REISkip,
+OK-2227,Gavin Ishikawa,13126 Ravensmoor Ave,Del City,73165,(405) 555-0113,Fax tone,Replaced,(405) 555-0197,Landline,Active,,,,N,gavinishikawa99@example.org,Medium,BatchData,Old number belonged to prior owner
+OK-2228,Michael Nakamura,1800 Abbotsbrae Ct,Midwest City,73198,(405) 555-0187,Wrong person,Added 2nd line,(405) 555-0172,VoIP,Active,(580) 555-0122,Mobile,Active,N,,Medium,REISkip,
+OK-2229,Maria Crowley,8857 Quarrystone Ct,Del City,73187,(405) 555-0106,Disconnected,Replaced,(718) 555-0161,Landline,Active,(718) 555-0155,Mobile,Active,N,,Medium,REISkip,
+OK-2230,Gemma Vanderberg,7830 Emberly Dr,Oklahoma City,73116,(405) 555-0170,Disconnected,Replaced,(405) 555-0149,Landline,Active,,,,Y,gemmavanderberg40@example.org,Medium,BatchData,
+OK-2231,Renee Kessler,3330 Hartwhistle Ct,Edmond,73014,(405) 555-0144,No answer x6,Replaced,(405) 555-0150,VoIP,Active,(405) 555-0134,Mobile,Active,N,kessler.renee98@example.com,High,REISkip,New mobile confirmed by 2 sources
+OK-2232,Nolan Vance,2413 Marrowgate Pkwy,Bethany,73041,(572) 555-0167,Disconnected,Replaced,(572) 555-0138,Landline,Active,(572) 555-0188,Mobile,Unverified,N,nolan_vance@example.com,Medium,Manual (2nd source),
+OK-2233,Gemma Galloway,3232 Yarrowfield Trl,Oklahoma City,73101,(405) 555-0189,Disconnected,Added 2nd line,(405) 555-0167,Mobile,Active,(405) 555-0193,Mobile,Active,N,ggalloway49@example.com,High,BatchData,
+OK-2234,Grant Valencia,3576 Marrowgate Loop,Edmond,73007,(405) 555-0165,No answer x6,Added 2nd line,(405) 555-0146,Landline,Active,(572) 555-0179,Mobile,Active,N,grant_valencia@example.org,High,BatchData,
+OK-2235,David Kaur,3984 Lowther Cir,Midwest City,73199,(405) 555-0126,Disconnected,Replaced,(539) 555-0185,Landline,Active,(405) 555-0122,Landline,Active,Y,david_kaur@example.net,High,REISkip,
+OK-2236,Emeka Castillo,2651 Vintonbrook St,Midwest City,73169,(405) 555-0168,Wrong person,Added 2nd line,(580) 555-0145,Mobile,Active,,,,N,emeka_castillo@example.org,High,REISkip,
+OK-2237,Imani Whitaker,3030 Mirabrook Way,Oklahoma City,73157,(580) 555-0172,Fax tone,Added 2nd line,(405) 555-0140,Mobile,Active,,,,N,imaniw54@example.com,High,REISkip,
+OK-2238,Derek Tran,4119 Mossgrave Trl,Bethany,73004,(405) 555-0112,No answer x6,Replaced,(405) 555-0181,VoIP,Active,(572) 555-0186,Mobile,Active,N,dtran19@example.org,High,BatchData,
+OK-2239,Sergio Whitfield,18425 Pellingham Loop,Oklahoma City,73107,(405) 555-0142,Fax tone,Added 2nd line,(918) 555-0121,Mobile,Active,(405) 555-0156,Mobile,Unverified,N,whitfield.sergio28@example.org,High,Manual (2nd source),
+OK-2240,Kendra Kowalczyk,14068 Drummondale Ter,Oklahoma City,73156,(405) 555-0114,Wrong person,Replaced,(405) 555-0186,Mobile,Active,(405) 555-0154,Landline,Unverified,N,kowalczyk.kendra45@example.com,High,Manual (2nd source),
+OK-2241,Theresa Jankowski,15621 Wexmoor Blvd,Oklahoma City,73124,(405) 555-0171,No answer x6,Replaced,(405) 555-0159,VoIP,Active,(405) 555-0166,Landline,Active,N,theresajankowski38@example.net,High,REISkip,Old number belonged to prior owner
+OK-2243,Lila Lemieux,5151 Emberly Ter,Oklahoma City,73124,(405) 555-0177,Disconnected,Added 2nd line,(405) 555-0157,Mobile,Active,,,,Y,,Medium,BatchData,
+OK-2244,Jasmine Dunleavy,6614 Wrenfield Ter,Oklahoma City,73125,(539) 555-0148,No answer x6,Added 2nd line,(405) 555-0151,Mobile,Active,,,,N,jasmine_dunleavy@example.net,High,BatchData,Old number belonged to prior owner
+OK-2245,Wesley Yilmaz,5285 Brackenhold Way,Oklahoma City,73193,(405) 555-0191,Fax tone,Replaced,(405) 555-0132,Mobile,Active,,,,N,wesleyyilmaz35@example.net,High,BatchData,
+OK-2246,Yvette Ibarra,2882 Emberly Way,Midwest City,73122,(405) 555-0184,Wrong person,Added 2nd line,(918) 555-0151,Landline,Active,(405) 555-0121,Mobile,Disconnected,N,ibarra.yvette89@example.com,Medium,REISkip,Old number belonged to prior owner
+OK-2247,Ana Quintero,2795 Orlavine Ct,Oklahoma City,73159,(405) 555-0153,Wrong person,Replaced,(405) 555-0105,Landline,Active,,,,Y,anaq73@example.net,Medium,BatchData,New mobile confirmed by 2 sources
+OK-2248,Caleb Gutierrez,9088 Ambermoor Dr,Del City,73117,(405) 555-0185,Wrong person,Replaced,(405) 555-0196,Landline,Active,(405) 555-0111,Mobile,Active,N,,Medium,REISkip,Old number belonged to prior owner
+OK-2202,Rachel Toussaint,2819 Fallowmere Loop,Del City,73146,(405) 555-0158,Fax tone,No new number,,,,,,,N,,Low,REISkip,No match from tool · queued for manual research
+OK-2242,Joel Ramaswamy,4125 Oakhollow Pl,Edmond,73042,(580) 555-0179,Disconnected,No new number,,,,,,,N,,Low,REISkip,No match from tool · queued for manual research
+OK-2249,Bethany Albright,1165 Marrowgate Pl,Oklahoma City,73159,(405) 555-0125,No answer x6,No new number,,,,,,,N,,Low,BatchData,No match from tool · queued for manual research

@@ -1,0 +1,3 @@
+# build scripts and render cache stay local
+_build/
+.DS_Store

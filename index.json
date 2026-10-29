@@ -1,0 +1,2909 @@
+{
+  "note": "DEMO SAMPLE · fictional data · all names, phones (555-01XX), emails and addresses are invented",
+  "brand": "Zaid Mubbasher · B2B Lead Generation & Skip Tracing",
+  "generated": "2026-10-29",
+  "counts": {
+    "b2b": 24,
+    "skiptrace": 24
+  },
+  "samples": [
+    {
+      "id": "b2b-01",
+      "line": "b2b",
+      "title": "B2B SaaS CTOs · United States · 45 Tech Leaders",
+      "title_parts": [
+        "B2B SaaS CTOs",
+        "United States",
+        "45 Tech Leaders"
+      ],
+      "niche": "B2B SaaS CTOs",
+      "region": "United States",
+      "rows": 45,
+      "layout": "hero",
+      "criteria": "Series A–B B2B SaaS · 51–500 employees · CTO & VP Technology titles",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Segment",
+        "Funding Stage",
+        "Employees",
+        "HQ City",
+        "State",
+        "Country",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/01-saas-ctos-us",
+        "csv": "b2b/01-saas-ctos-us/data.csv",
+        "xlsx": "b2b/01-saas-ctos-us/data.xlsx",
+        "cover": "b2b/01-saas-ctos-us/cover.jpg",
+        "cover_square": "b2b/01-saas-ctos-us/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "43/45"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "43/45"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "23/45"
+        },
+        {
+          "label": "Cities covered",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "id": "b2b-02",
+      "line": "b2b",
+      "title": "Dental Clinics · Florida · 40 Practice Owners",
+      "title_parts": [
+        "Dental Clinics",
+        "Florida",
+        "40 Practice Owners"
+      ],
+      "niche": "Dental clinics",
+      "region": "Florida",
+      "rows": 40,
+      "layout": "cards",
+      "criteria": "Owner dentists & practice managers · independent practices · 7 metros",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Practice Type",
+        "Locations",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Office Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/02-dental-clinics-florida",
+        "csv": "b2b/02-dental-clinics-florida/data.csv",
+        "xlsx": "b2b/02-dental-clinics-florida/data.xlsx",
+        "cover": "b2b/02-dental-clinics-florida/cover.jpg",
+        "cover_square": "b2b/02-dental-clinics-florida/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "38/40"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "25/40"
+        },
+        {
+          "label": "Cities covered",
+          "value": "7"
+        },
+        {
+          "label": "Duplicates in file",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": "b2b-03",
+      "line": "b2b",
+      "title": "Personal-Injury Law Firms · Illinois · 36 Managing Partners",
+      "title_parts": [
+        "Personal-Injury Law Firms",
+        "Illinois",
+        "36 Managing Partners"
+      ],
+      "niche": "Personal-injury law firms",
+      "region": "Illinois",
+      "rows": 36,
+      "layout": "editorial",
+      "criteria": "Managing & founding partners · 2–40 attorneys · Chicago metro + downstate",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Practice Area",
+        "Attorneys",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Firm Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/03-pi-law-firms-illinois",
+        "csv": "b2b/03-pi-law-firms-illinois/data.csv",
+        "xlsx": "b2b/03-pi-law-firms-illinois/data.xlsx",
+        "cover": "b2b/03-pi-law-firms-illinois/cover.jpg",
+        "cover_square": "b2b/03-pi-law-firms-illinois/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "34/36"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "25/36"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "35/36"
+        }
+      ]
+    },
+    {
+      "id": "b2b-04",
+      "line": "b2b",
+      "title": "HVAC Contractors · Arizona · 48 Owners & GMs",
+      "title_parts": [
+        "HVAC Contractors",
+        "Arizona",
+        "48 Owners & GMs"
+      ],
+      "niche": "HVAC contractors",
+      "region": "Arizona",
+      "rows": 48,
+      "layout": "dashboard",
+      "criteria": "Owners, GMs & ops managers · residential + commercial · 3–60 service trucks",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Services",
+        "Service Trucks",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/04-hvac-contractors-arizona",
+        "csv": "b2b/04-hvac-contractors-arizona/data.csv",
+        "xlsx": "b2b/04-hvac-contractors-arizona/data.xlsx",
+        "cover": "b2b/04-hvac-contractors-arizona/cover.jpg",
+        "cover_square": "b2b/04-hvac-contractors-arizona/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "46/48"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "33/48"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "46/48"
+        },
+        {
+          "label": "Cities covered",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "id": "b2b-05",
+      "line": "b2b",
+      "title": "Commercial Roofing Contractors · Texas · 50 Decision-Makers",
+      "title_parts": [
+        "Commercial Roofing Contractors",
+        "Texas",
+        "50 Decision-Makers"
+      ],
+      "niche": "Commercial roofing contractors",
+      "region": "Texas",
+      "rows": 50,
+      "layout": "sheet",
+      "criteria": "Owners, presidents & estimating directors · 11–500 employees · 7 Texas metros",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Industry",
+        "Roof Systems",
+        "Employees",
+        "Revenue Band",
+        "City",
+        "State",
+        "Country",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/05-commercial-roofing-texas",
+        "csv": "b2b/05-commercial-roofing-texas/data.csv",
+        "xlsx": "b2b/05-commercial-roofing-texas/data.xlsx",
+        "cover": "b2b/05-commercial-roofing-texas/cover.jpg",
+        "cover_square": "b2b/05-commercial-roofing-texas/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "48/50"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "34/50"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "48/50"
+        },
+        {
+          "label": "Catch-all, flagged",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "b2b-06",
+      "line": "b2b",
+      "title": "Solar Installers · California · 42 Owners & Sales Leaders",
+      "title_parts": [
+        "Solar Installers",
+        "California",
+        "42 Owners & Sales Leaders"
+      ],
+      "niche": "Solar installers",
+      "region": "California",
+      "rows": 42,
+      "layout": "funnel",
+      "criteria": "Founders, owners & sales directors · residential + storage installers",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Segment",
+        "Installs per Year (est.)",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/06-solar-installers-california",
+        "csv": "b2b/06-solar-installers-california/data.csv",
+        "xlsx": "b2b/06-solar-installers-california/data.xlsx",
+        "cover": "b2b/06-solar-installers-california/cover.jpg",
+        "cover_square": "b2b/06-solar-installers-california/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "38/42"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "29/42"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "40/42"
+        }
+      ]
+    },
+    {
+      "id": "b2b-07",
+      "line": "b2b",
+      "title": "Logistics & 3PL Companies · Ohio & Indiana · 44 Operations Leaders",
+      "title_parts": [
+        "Logistics & 3PL Companies",
+        "Ohio & Indiana",
+        "44 Operations Leaders"
+      ],
+      "niche": "Logistics & 3PL companies",
+      "region": "Ohio & Indiana",
+      "rows": 44,
+      "layout": "tilemap",
+      "criteria": "Directors & VPs of operations · warehousing, freight brokerage, cold storage",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Services",
+        "Warehouse Sq Ft (est.)",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/07-logistics-3pl-ohio-indiana",
+        "csv": "b2b/07-logistics-3pl-ohio-indiana/data.csv",
+        "xlsx": "b2b/07-logistics-3pl-ohio-indiana/data.xlsx",
+        "cover": "b2b/07-logistics-3pl-ohio-indiana/cover.jpg",
+        "cover_square": "b2b/07-logistics-3pl-ohio-indiana/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "40/44"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "30/44"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "42/44"
+        }
+      ]
+    },
+    {
+      "id": "b2b-08",
+      "line": "b2b",
+      "title": "DTC E-commerce Brands · United States · 55 Founders & Growth Leads",
+      "title_parts": [
+        "DTC E-commerce Brands",
+        "United States",
+        "55 Founders & Growth Leads"
+      ],
+      "niche": "DTC e-commerce brands",
+      "region": "United States",
+      "rows": 55,
+      "layout": "brutal",
+      "criteria": "$1M–25M online brands · founders, heads of growth & e-commerce directors",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Brand",
+        "Website",
+        "Category",
+        "Store Platform",
+        "Revenue Band",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/08-dtc-ecommerce-brands-us",
+        "csv": "b2b/08-dtc-ecommerce-brands-us/data.csv",
+        "xlsx": "b2b/08-dtc-ecommerce-brands-us/data.xlsx",
+        "cover": "b2b/08-dtc-ecommerce-brands-us/cover.jpg",
+        "cover_square": "b2b/08-dtc-ecommerce-brands-us/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "52/55"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "53/55"
+        },
+        {
+          "label": "Product categories",
+          "value": "8"
+        },
+        {
+          "label": "Catch-all, flagged",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "b2b-09",
+      "line": "b2b",
+      "title": "Commercial General Contractors · Georgia & the Carolinas · 45 Decision-Makers",
+      "title_parts": [
+        "Commercial General Contractors",
+        "Georgia & the Carolinas",
+        "45 Decision-Makers"
+      ],
+      "niche": "Commercial general contractors",
+      "region": "Georgia & the Carolinas",
+      "rows": 45,
+      "layout": "blueprint",
+      "criteria": "Presidents, preconstruction & estimating leads · $10M–100M annual volume",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Project Types",
+        "Annual Volume",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/09-general-contractors-georgia-carolinas",
+        "csv": "b2b/09-general-contractors-georgia-carolinas/data.csv",
+        "xlsx": "b2b/09-general-contractors-georgia-carolinas/data.xlsx",
+        "cover": "b2b/09-general-contractors-georgia-carolinas/cover.jpg",
+        "cover_square": "b2b/09-general-contractors-georgia-carolinas/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "43/45"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "31/45"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "43/45"
+        },
+        {
+          "label": "States covered",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "b2b-10",
+      "line": "b2b",
+      "title": "Med-Spas · Colorado · 38 Owners & Medical Directors",
+      "title_parts": [
+        "Med-Spas",
+        "Colorado",
+        "38 Owners & Medical Directors"
+      ],
+      "niche": "Med-spas",
+      "region": "Colorado",
+      "rows": 38,
+      "layout": "glass",
+      "criteria": "Owners, founders & medical directors · injectables, laser & skin clinics",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Services",
+        "Locations",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Front Desk Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/10-med-spas-colorado",
+        "csv": "b2b/10-med-spas-colorado/data.csv",
+        "xlsx": "b2b/10-med-spas-colorado/data.xlsx",
+        "cover": "b2b/10-med-spas-colorado/cover.jpg",
+        "cover_square": "b2b/10-med-spas-colorado/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "35/38"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "26/38"
+        },
+        {
+          "label": "Cities covered",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "id": "b2b-11",
+      "line": "b2b",
+      "title": "CPA Firms · New York & New Jersey · 46 Partners",
+      "title_parts": [
+        "CPA Firms",
+        "New York & New Jersey",
+        "46 Partners"
+      ],
+      "niche": "CPA firms",
+      "region": "New York & New Jersey",
+      "rows": 46,
+      "layout": "ledger",
+      "criteria": "Managing, tax & audit partners · firms with 3–60 CPAs",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Specialty",
+        "CPAs on Staff",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Firm Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/11-cpa-firms-new-york-new-jersey",
+        "csv": "b2b/11-cpa-firms-new-york-new-jersey/data.csv",
+        "xlsx": "b2b/11-cpa-firms-new-york-new-jersey/data.xlsx",
+        "cover": "b2b/11-cpa-firms-new-york-new-jersey/cover.jpg",
+        "cover_square": "b2b/11-cpa-firms-new-york-new-jersey/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "44/46"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "31/46"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "44/46"
+        },
+        {
+          "label": "Catch-all, flagged",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "id": "b2b-12",
+      "line": "b2b",
+      "title": "Marketing Agencies · United States · 40 Founders & CEOs",
+      "title_parts": [
+        "Marketing Agencies",
+        "United States",
+        "40 Founders & CEOs"
+      ],
+      "niche": "Marketing agencies",
+      "region": "United States",
+      "rows": 40,
+      "layout": "poster",
+      "criteria": "Independent agencies with 11–200 staff · founder, CEO & managing director titles",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Agency Focus",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/12-marketing-agencies-us",
+        "csv": "b2b/12-marketing-agencies-us/data.csv",
+        "xlsx": "b2b/12-marketing-agencies-us/data.xlsx",
+        "cover": "b2b/12-marketing-agencies-us/cover.jpg",
+        "cover_square": "b2b/12-marketing-agencies-us/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "38/40"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "38/40"
+        },
+        {
+          "label": "Cities covered",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": "b2b-13",
+      "line": "b2b",
+      "title": "Manufacturing Plant Managers · Michigan & Wisconsin · 52 Contacts",
+      "title_parts": [
+        "Manufacturing Plant Managers",
+        "Michigan & Wisconsin",
+        "52 Contacts"
+      ],
+      "niche": "Manufacturing plant managers",
+      "region": "Michigan & Wisconsin",
+      "rows": 52,
+      "layout": "heatmap",
+      "criteria": "Plant managers & operations leaders · 51–1,000+ employee plants",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Products",
+        "Plant City",
+        "State",
+        "Employees",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Plant Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/13-plant-managers-michigan-wisconsin",
+        "csv": "b2b/13-plant-managers-michigan-wisconsin/data.csv",
+        "xlsx": "b2b/13-plant-managers-michigan-wisconsin/data.xlsx",
+        "cover": "b2b/13-plant-managers-michigan-wisconsin/cover.jpg",
+        "cover_square": "b2b/13-plant-managers-michigan-wisconsin/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "50/52"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "35/52"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "50/52"
+        }
+      ]
+    },
+    {
+      "id": "b2b-14",
+      "line": "b2b",
+      "title": "Real Estate Brokerages · Ontario (GTA) · 40 Brokers of Record",
+      "title_parts": [
+        "Real Estate Brokerages",
+        "Ontario (GTA)",
+        "40 Brokers of Record"
+      ],
+      "niche": "Real estate brokerages",
+      "region": "Ontario, Canada (GTA)",
+      "rows": 40,
+      "layout": "crm",
+      "criteria": "Brokers of record & broker-owners · independent and franchise offices · Canada",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Brokerage",
+        "Website",
+        "Brokerage Type",
+        "Agents",
+        "City",
+        "Province",
+        "Country",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Office Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/14-real-estate-brokerages-ontario",
+        "csv": "b2b/14-real-estate-brokerages-ontario/data.csv",
+        "xlsx": "b2b/14-real-estate-brokerages-ontario/data.xlsx",
+        "cover": "b2b/14-real-estate-brokerages-ontario/cover.jpg",
+        "cover_square": "b2b/14-real-estate-brokerages-ontario/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "37/40"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "27/40"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "38/40"
+        }
+      ]
+    },
+    {
+      "id": "b2b-15",
+      "line": "b2b",
+      "title": "Property Management Companies · North Carolina & Tennessee · 48 Owners & Directors",
+      "title_parts": [
+        "Property Management Companies",
+        "North Carolina & Tennessee",
+        "48 Owners & Directors"
+      ],
+      "niche": "Property management companies",
+      "region": "North Carolina & Tennessee",
+      "rows": 48,
+      "layout": "filters",
+      "criteria": "Owners, brokers-in-charge & PM directors · 100 to 1,000+ doors",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Portfolio",
+        "Doors Managed",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Office Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/15-property-managers-nc-tn",
+        "csv": "b2b/15-property-managers-nc-tn/data.csv",
+        "xlsx": "b2b/15-property-managers-nc-tn/data.xlsx",
+        "cover": "b2b/15-property-managers-nc-tn/cover.jpg",
+        "cover_square": "b2b/15-property-managers-nc-tn/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "44/48"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "33/48"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "46/48"
+        }
+      ]
+    },
+    {
+      "id": "b2b-16",
+      "line": "b2b",
+      "title": "Multi-Unit Restaurant Groups · Washington & Oregon · 34 Operations Leaders",
+      "title_parts": [
+        "Multi-Unit Restaurant Groups",
+        "Washington & Oregon",
+        "34 Operations Leaders"
+      ],
+      "niche": "Multi-unit restaurant groups",
+      "region": "Washington & Oregon",
+      "rows": 34,
+      "layout": "menu",
+      "criteria": "Groups with 3–24 locations · directors of operations, owners & managing partners",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Cuisine",
+        "Locations",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Office Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/16-restaurant-groups-washington-oregon",
+        "csv": "b2b/16-restaurant-groups-washington-oregon/data.csv",
+        "xlsx": "b2b/16-restaurant-groups-washington-oregon/data.xlsx",
+        "cover": "b2b/16-restaurant-groups-washington-oregon/cover.jpg",
+        "cover_square": "b2b/16-restaurant-groups-washington-oregon/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "30/34"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "23/34"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "33/34"
+        }
+      ]
+    },
+    {
+      "id": "b2b-17",
+      "line": "b2b",
+      "title": "Independent Insurance Agencies · Pennsylvania · 48 Agency Principals",
+      "title_parts": [
+        "Independent Insurance Agencies",
+        "Pennsylvania",
+        "48 Agency Principals"
+      ],
+      "niche": "Independent insurance agencies",
+      "region": "Pennsylvania",
+      "rows": 48,
+      "layout": "report",
+      "criteria": "Agency principals, owners & commercial-lines managers · 2–30 producers",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Lines",
+        "Producers",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Agency Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/17-insurance-agencies-pennsylvania",
+        "csv": "b2b/17-insurance-agencies-pennsylvania/data.csv",
+        "xlsx": "b2b/17-insurance-agencies-pennsylvania/data.xlsx",
+        "cover": "b2b/17-insurance-agencies-pennsylvania/cover.jpg",
+        "cover_square": "b2b/17-insurance-agencies-pennsylvania/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "45/48"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "33/48"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "46/48"
+        },
+        {
+          "label": "Duplicates in file",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "id": "b2b-18",
+      "line": "b2b",
+      "title": "Commercial Cleaning Companies · VA, MD & DC · 45 Owners & Ops Managers",
+      "title_parts": [
+        "Commercial Cleaning Companies",
+        "VA, MD & DC",
+        "45 Owners & Ops Managers"
+      ],
+      "niche": "Commercial cleaning companies",
+      "region": "Virginia, Maryland & DC",
+      "rows": 45,
+      "layout": "metro",
+      "criteria": "Janitorial & facility-services firms · owners, presidents & operations managers",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Specialty",
+        "Employees",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/18-commercial-cleaning-va-md-dc",
+        "csv": "b2b/18-commercial-cleaning-va-md-dc/data.csv",
+        "xlsx": "b2b/18-commercial-cleaning-va-md-dc/data.xlsx",
+        "cover": "b2b/18-commercial-cleaning-va-md-dc/cover.jpg",
+        "cover_square": "b2b/18-commercial-cleaning-va-md-dc/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "43/45"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "31/45"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "43/45"
+        },
+        {
+          "label": "States covered",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "b2b-19",
+      "line": "b2b",
+      "title": "Staffing Agencies · MA, CT & RI · 40 Decision-Makers",
+      "title_parts": [
+        "Staffing Agencies",
+        "MA, CT & RI",
+        "40 Decision-Makers"
+      ],
+      "niche": "Staffing agencies",
+      "region": "Massachusetts, Connecticut & Rhode Island",
+      "rows": 40,
+      "layout": "beforeafter",
+      "criteria": "Client sent company names + websites; decision-makers researched, emails verified",
+      "columns": [
+        "Company",
+        "Website",
+        "City",
+        "State",
+        "Specialty",
+        "Employees",
+        "First Name",
+        "Last Name",
+        "Title",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/19-staffing-agencies-new-england",
+        "csv": "b2b/19-staffing-agencies-new-england/data.csv",
+        "xlsx": "b2b/19-staffing-agencies-new-england/data.xlsx",
+        "cover": "b2b/19-staffing-agencies-new-england/cover.jpg",
+        "cover_square": "b2b/19-staffing-agencies-new-england/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "37/40"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "27/40"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "38/40"
+        }
+      ]
+    },
+    {
+      "id": "b2b-20",
+      "line": "b2b",
+      "title": "Landscaping & Lawn Care · Missouri & Kansas · 50 Owners",
+      "title_parts": [
+        "Landscaping & Lawn Care",
+        "Missouri & Kansas",
+        "50 Owners"
+      ],
+      "niche": "Landscaping & lawn-care companies",
+      "region": "Missouri & Kansas",
+      "rows": 50,
+      "layout": "split",
+      "criteria": "Owner-operated landscaping, lawn-care & hardscape firms · 2–20 crews",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Services",
+        "Crews",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/20-landscaping-companies-missouri-kansas",
+        "csv": "b2b/20-landscaping-companies-missouri-kansas/data.csv",
+        "xlsx": "b2b/20-landscaping-companies-missouri-kansas/data.xlsx",
+        "cover": "b2b/20-landscaping-companies-missouri-kansas/cover.jpg",
+        "cover_square": "b2b/20-landscaping-companies-missouri-kansas/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "47/50"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "34/50"
+        },
+        {
+          "label": "Cities covered",
+          "value": "11"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "48/50"
+        }
+      ]
+    },
+    {
+      "id": "b2b-21",
+      "line": "b2b",
+      "title": "Auto Dealerships · Alberta, Canada · 40 General Managers",
+      "title_parts": [
+        "Auto Dealerships",
+        "Alberta, Canada",
+        "40 General Managers"
+      ],
+      "niche": "Auto dealerships",
+      "region": "Alberta, Canada",
+      "rows": 40,
+      "layout": "scorecard",
+      "criteria": "GMs, dealer principals & sales managers · new, used & commercial dealers",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Dealership",
+        "Website",
+        "Dealer Type",
+        "Inventory (est. units)",
+        "City",
+        "Province",
+        "Country",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Dealership Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/21-auto-dealerships-alberta",
+        "csv": "b2b/21-auto-dealerships-alberta/data.csv",
+        "xlsx": "b2b/21-auto-dealerships-alberta/data.xlsx",
+        "cover": "b2b/21-auto-dealerships-alberta/cover.jpg",
+        "cover_square": "b2b/21-auto-dealerships-alberta/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "38/40"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "27/40"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "38/40"
+        },
+        {
+          "label": "Cities covered",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "id": "b2b-22",
+      "line": "b2b",
+      "title": "Plumbing Contractors · Nevada & Utah · 42 Owners",
+      "title_parts": [
+        "Plumbing Contractors",
+        "Nevada & Utah",
+        "42 Owners"
+      ],
+      "niche": "Plumbing contractors",
+      "region": "Nevada & Utah",
+      "rows": 42,
+      "layout": "tabs",
+      "criteria": "Owner-operators & service managers · residential service, new construction, drain",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Company",
+        "Website",
+        "Focus",
+        "Service Trucks",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Company Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/22-plumbing-contractors-nevada-utah",
+        "csv": "b2b/22-plumbing-contractors-nevada-utah/data.csv",
+        "xlsx": "b2b/22-plumbing-contractors-nevada-utah/data.xlsx",
+        "cover": "b2b/22-plumbing-contractors-nevada-utah/cover.jpg",
+        "cover_square": "b2b/22-plumbing-contractors-nevada-utah/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "38/42"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "29/42"
+        },
+        {
+          "label": "LinkedIn matched",
+          "value": "40/42"
+        }
+      ]
+    },
+    {
+      "id": "b2b-23",
+      "line": "b2b",
+      "title": "Veterinary Clinics · British Columbia, Canada · 36 Practice Owners",
+      "title_parts": [
+        "Veterinary Clinics",
+        "British Columbia, Canada",
+        "36 Practice Owners"
+      ],
+      "niche": "Veterinary clinics",
+      "region": "British Columbia, Canada",
+      "rows": 36,
+      "layout": "process",
+      "criteria": "Practice owners, medical directors & hospital managers · independent clinics",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Clinic",
+        "Website",
+        "Clinic Type",
+        "Veterinarians",
+        "City",
+        "Province",
+        "Country",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Clinic Phone",
+        "LinkedIn URL",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/23-veterinary-clinics-british-columbia",
+        "csv": "b2b/23-veterinary-clinics-british-columbia/data.csv",
+        "xlsx": "b2b/23-veterinary-clinics-british-columbia/data.xlsx",
+        "cover": "b2b/23-veterinary-clinics-british-columbia/cover.jpg",
+        "cover_square": "b2b/23-veterinary-clinics-british-columbia/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "32/36"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "24/36"
+        },
+        {
+          "label": "Cities covered",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "id": "b2b-24",
+      "line": "b2b",
+      "title": "Chiropractic Clinics · Louisiana & Mississippi · 30 Clinic Owners",
+      "title_parts": [
+        "Chiropractic Clinics",
+        "Louisiana & Mississippi",
+        "30 Clinic Owners"
+      ],
+      "niche": "Chiropractic clinics",
+      "region": "Louisiana & Mississippi",
+      "rows": 30,
+      "layout": "minimal",
+      "criteria": "Owner chiropractors & clinic directors · 1–6 providers per clinic",
+      "columns": [
+        "First Name",
+        "Last Name",
+        "Title",
+        "Clinic",
+        "Website",
+        "Focus",
+        "Providers",
+        "City",
+        "State",
+        "Business Email",
+        "Email Status",
+        "Direct Phone",
+        "Clinic Phone",
+        "Source",
+        "Last Verified"
+      ],
+      "paths": {
+        "folder": "b2b/24-chiropractic-clinics-louisiana-mississippi",
+        "csv": "b2b/24-chiropractic-clinics-louisiana-mississippi/data.csv",
+        "xlsx": "b2b/24-chiropractic-clinics-louisiana-mississippi/data.xlsx",
+        "cover": "b2b/24-chiropractic-clinics-louisiana-mississippi/cover.jpg",
+        "cover_square": "b2b/24-chiropractic-clinics-louisiana-mississippi/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Emails verified (valid)",
+          "value": "27/30"
+        },
+        {
+          "label": "Direct dials found",
+          "value": "20/30"
+        },
+        {
+          "label": "Cities covered",
+          "value": "9"
+        }
+      ]
+    },
+    {
+      "id": "st-01",
+      "line": "skiptrace",
+      "title": "Absentee Owners · Harris County, TX · 50 Records Skip-Traced",
+      "title_parts": [
+        "Absentee Owners",
+        "Harris County, TX",
+        "50 Records Skip-Traced"
+      ],
+      "niche": "Absentee owners",
+      "region": "Harris County, TX",
+      "rows": 50,
+      "layout": "dialer",
+      "criteria": "Non-owner-occupied single-family · Houston, Pasadena, Baytown, Katy · bulk skip trace",
+      "columns": [
+        "Owner 1 First",
+        "Owner 1 Last",
+        "Owner 2",
+        "Property Address",
+        "Property City",
+        "Property State",
+        "Property ZIP",
+        "Mailing Address",
+        "Mailing City",
+        "Mailing State",
+        "Mailing ZIP",
+        "Absentee",
+        "Property Type",
+        "Beds",
+        "Baths",
+        "Sq Ft",
+        "Year Built",
+        "Est. Value",
+        "Equity %",
+        "Last Sale Date",
+        "Last Sale Price",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Email 2",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/01-absentee-owners-harris-county-tx",
+        "csv": "skiptrace/01-absentee-owners-harris-county-tx/data.csv",
+        "xlsx": "skiptrace/01-absentee-owners-harris-county-tx/data.xlsx",
+        "cover": "skiptrace/01-absentee-owners-harris-county-tx/cover.jpg",
+        "cover_square": "skiptrace/01-absentee-owners-harris-county-tx/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "46/50"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "63"
+        },
+        {
+          "label": "Numbers flagged DNC",
+          "value": "21"
+        },
+        {
+          "label": "High-confidence rows",
+          "value": "33/50"
+        }
+      ]
+    },
+    {
+      "id": "st-02",
+      "line": "skiptrace",
+      "title": "Vacant Properties · Wayne County, MI · 45 Owners Located",
+      "title_parts": [
+        "Vacant Properties",
+        "Wayne County, MI",
+        "45 Owners Located"
+      ],
+      "niche": "Vacant properties",
+      "region": "Wayne County, MI",
+      "rows": 45,
+      "layout": "parcelmap",
+      "criteria": "USPS-flagged and drive-by vacant houses · Detroit, Dearborn, Westland, Taylor",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "State",
+        "ZIP",
+        "Vacancy Source",
+        "Months Vacant (est.)",
+        "Mailing Address (Full)",
+        "Absentee",
+        "Est. Value",
+        "Equity %",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "Phone 4",
+        "Phone 4 Type",
+        "Phone 4 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/02-vacant-properties-wayne-county-mi",
+        "csv": "skiptrace/02-vacant-properties-wayne-county-mi/data.csv",
+        "xlsx": "skiptrace/02-vacant-properties-wayne-county-mi/data.xlsx",
+        "cover": "skiptrace/02-vacant-properties-wayne-county-mi/cover.jpg",
+        "cover_square": "skiptrace/02-vacant-properties-wayne-county-mi/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "41/45"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "56"
+        },
+        {
+          "label": "Absentee owners",
+          "value": "37/45"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "32/45"
+        }
+      ]
+    },
+    {
+      "id": "st-03",
+      "line": "skiptrace",
+      "title": "Pre-Foreclosure Owners · Maricopa County, AZ · 40 Records",
+      "title_parts": [
+        "Pre-Foreclosure Owners",
+        "Maricopa County, AZ",
+        "40 Records"
+      ],
+      "niche": "Pre-foreclosure owners",
+      "region": "Maricopa County, AZ",
+      "rows": 40,
+      "layout": "process",
+      "criteria": "Notice of Trustee Sale recorded Aug–Oct 2026 · Phoenix, Mesa, Glendale, Chandler",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "State",
+        "ZIP",
+        "Filing Type",
+        "Recording Date",
+        "Sale Date",
+        "Default Amount (est.)",
+        "Est. Loan Balance",
+        "Est. Value",
+        "Equity %",
+        "Mailing Address (Full)",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Email 2",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/03-pre-foreclosure-maricopa-county-az",
+        "csv": "skiptrace/03-pre-foreclosure-maricopa-county-az/data.csv",
+        "xlsx": "skiptrace/03-pre-foreclosure-maricopa-county-az/data.xlsx",
+        "cover": "skiptrace/03-pre-foreclosure-maricopa-county-az/cover.jpg",
+        "cover_square": "skiptrace/03-pre-foreclosure-maricopa-county-az/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "37/40"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "54"
+        },
+        {
+          "label": "Avg. est. equity",
+          "value": "36%"
+        }
+      ]
+    },
+    {
+      "id": "st-04",
+      "line": "skiptrace",
+      "title": "Tax-Delinquent Properties · Cuyahoga County, OH · 52 Records",
+      "title_parts": [
+        "Tax-Delinquent Properties",
+        "Cuyahoga County, OH",
+        "52 Records"
+      ],
+      "niche": "Tax-delinquent properties",
+      "region": "Cuyahoga County, OH",
+      "rows": 52,
+      "layout": "heatmap",
+      "criteria": "1–5 years delinquent · Cleveland, Lakewood, Parma, Euclid · owners skip-traced",
+      "columns": [
+        "Parcel ID",
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Tax Years Delinquent",
+        "Amount Owed",
+        "Assessed Value",
+        "Est. Value",
+        "Absentee",
+        "Mailing Address (Full)",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/04-tax-delinquent-cuyahoga-county-oh",
+        "csv": "skiptrace/04-tax-delinquent-cuyahoga-county-oh/data.csv",
+        "xlsx": "skiptrace/04-tax-delinquent-cuyahoga-county-oh/data.xlsx",
+        "cover": "skiptrace/04-tax-delinquent-cuyahoga-county-oh/cover.jpg",
+        "cover_square": "skiptrace/04-tax-delinquent-cuyahoga-county-oh/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "48/52"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "69"
+        },
+        {
+          "label": "Total taxes owed (est.)",
+          "value": "$361K"
+        }
+      ]
+    },
+    {
+      "id": "st-05",
+      "line": "skiptrace",
+      "title": "Probate Leads · Cook County, IL · 32 Estates Researched",
+      "title_parts": [
+        "Probate Leads",
+        "Cook County, IL",
+        "32 Estates Researched"
+      ],
+      "niche": "Probate leads",
+      "region": "Cook County, IL",
+      "rows": 32,
+      "layout": "casefile",
+      "criteria": "Estates opened Jun–Oct 2026 · personal representative located and skip-traced",
+      "columns": [
+        "Case No.",
+        "Filing Date",
+        "Decedent",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Est. Value",
+        "Personal Representative",
+        "PR Relationship",
+        "PR Mailing Address",
+        "PR Phone 1",
+        "PR Phone 1 Type",
+        "PR Phone 1 Status",
+        "PR Phone 2",
+        "PR Phone 2 Type",
+        "PR Phone 2 Status",
+        "PR Phone 3",
+        "PR Phone 3 Type",
+        "PR Phone 3 Status",
+        "DNC (Any)",
+        "PR Email",
+        "Other Heirs Found",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/05-probate-leads-cook-county-il",
+        "csv": "skiptrace/05-probate-leads-cook-county-il/data.csv",
+        "xlsx": "skiptrace/05-probate-leads-cook-county-il/data.xlsx",
+        "cover": "skiptrace/05-probate-leads-cook-county-il/cover.jpg",
+        "cover_square": "skiptrace/05-probate-leads-cook-county-il/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "30/32"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "34"
+        },
+        {
+          "label": "Other heirs noted",
+          "value": "64"
+        }
+      ]
+    },
+    {
+      "id": "st-06",
+      "line": "skiptrace",
+      "title": "High-Equity Homeowners · Duval County, FL · 48 Owners · 50%+ Equity",
+      "title_parts": [
+        "High-Equity Homeowners",
+        "Duval County, FL",
+        "48 Owners · 50%+ Equity"
+      ],
+      "niche": "High-equity homeowners",
+      "region": "Duval County, FL",
+      "rows": 48,
+      "layout": "dashboard",
+      "criteria": "50%+ estimated equity · single-family · Jacksonville & the beaches",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "State",
+        "ZIP",
+        "Owner Occupied",
+        "Years Owned",
+        "Est. Value",
+        "Est. Loan Balance",
+        "Equity %",
+        "Est. Equity",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "Phone 4",
+        "Phone 4 Type",
+        "Phone 4 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Email 2",
+        "Confidence",
+        "Source"
+      ],
+      "paths": {
+        "folder": "skiptrace/06-high-equity-duval-county-fl",
+        "csv": "skiptrace/06-high-equity-duval-county-fl/data.csv",
+        "xlsx": "skiptrace/06-high-equity-duval-county-fl/data.xlsx",
+        "cover": "skiptrace/06-high-equity-duval-county-fl/cover.jpg",
+        "cover_square": "skiptrace/06-high-equity-duval-county-fl/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "45/48"
+        },
+        {
+          "label": "Avg. est. equity",
+          "value": "73%"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "72"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "27/48"
+        }
+      ]
+    },
+    {
+      "id": "st-07",
+      "line": "skiptrace",
+      "title": "LLC-Owned Rentals → Managing Members · Fulton County, GA · 38 Entities Researched",
+      "title_parts": [
+        "LLC-Owned Rentals → Managing Members",
+        "Fulton County, GA",
+        "38 Entities Researched"
+      ],
+      "niche": "LLC-owned rentals · entity research",
+      "region": "Fulton County, GA",
+      "rows": 38,
+      "layout": "entitytree",
+      "criteria": "Entity owner traced through state filings to the managing member, then skip-traced",
+      "columns": [
+        "Property Address",
+        "City",
+        "ZIP",
+        "Entity Owner",
+        "Entity Type",
+        "State of Formation",
+        "Entity Status",
+        "Registered Agent",
+        "Managing Member",
+        "Member Mailing Address",
+        "Member Phone 1",
+        "Member Phone 1 Type",
+        "Member Phone 1 Status",
+        "Member Phone 2",
+        "Member Phone 2 Type",
+        "Member Phone 2 Status",
+        "DNC (Any)",
+        "Member Email",
+        "Other Properties Owned",
+        "Est. Value",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/07-llc-owned-rentals-fulton-county-ga",
+        "csv": "skiptrace/07-llc-owned-rentals-fulton-county-ga/data.csv",
+        "xlsx": "skiptrace/07-llc-owned-rentals-fulton-county-ga/data.xlsx",
+        "cover": "skiptrace/07-llc-owned-rentals-fulton-county-ga/cover.jpg",
+        "cover_square": "skiptrace/07-llc-owned-rentals-fulton-county-ga/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Members reached by phone",
+          "value": "35/38"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "27"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "30/38"
+        }
+      ]
+    },
+    {
+      "id": "st-08",
+      "line": "skiptrace",
+      "title": "DNC Scrub & Line-Type Report · Mecklenburg County, NC · 60 Phone Numbers",
+      "title_parts": [
+        "DNC Scrub & Line-Type Report",
+        "Mecklenburg County, NC",
+        "60 Phone Numbers"
+      ],
+      "niche": "DNC scrub & line-type report",
+      "region": "Mecklenburg County, NC",
+      "rows": 60,
+      "layout": "donut",
+      "criteria": "One row per number · line type, status, federal DNC, litigator & client suppression",
+      "columns": [
+        "Record ID",
+        "Owner",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Phone",
+        "Line Type",
+        "Phone Status",
+        "Federal DNC",
+        "Known Litigator",
+        "Client Suppression",
+        "Dialable",
+        "Action"
+      ],
+      "paths": {
+        "folder": "skiptrace/08-dnc-scrub-line-type-report-mecklenburg-nc",
+        "csv": "skiptrace/08-dnc-scrub-line-type-report-mecklenburg-nc/data.csv",
+        "xlsx": "skiptrace/08-dnc-scrub-line-type-report-mecklenburg-nc/data.xlsx",
+        "cover": "skiptrace/08-dnc-scrub-line-type-report-mecklenburg-nc/cover.jpg",
+        "cover_square": "skiptrace/08-dnc-scrub-line-type-report-mecklenburg-nc/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Dialable numbers",
+          "value": "42/60"
+        },
+        {
+          "label": "On federal DNC",
+          "value": "8"
+        },
+        {
+          "label": "Litigator flags",
+          "value": "4"
+        }
+      ]
+    },
+    {
+      "id": "st-09",
+      "line": "skiptrace",
+      "title": "Manual Skip Tracing: Hard Records · Shelby County, TN · 30 No-Hit Records Re-Worked",
+      "title_parts": [
+        "Manual Skip Tracing: Hard Records",
+        "Shelby County, TN",
+        "30 No-Hit Records Re-Worked"
+      ],
+      "niche": "Manual skip tracing (hard records)",
+      "region": "Shelby County, TN",
+      "rows": 30,
+      "layout": "beforeafter",
+      "criteria": "Records the bulk tool missed · researched by hand across multiple sources",
+      "columns": [
+        "Record ID",
+        "Owner 1",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Prior Result",
+        "Research Path",
+        "Owner Confirmed",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Time Spent (min)",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/09-manual-skip-hard-records-shelby-county-tn",
+        "csv": "skiptrace/09-manual-skip-hard-records-shelby-county-tn/data.csv",
+        "xlsx": "skiptrace/09-manual-skip-hard-records-shelby-county-tn/data.xlsx",
+        "cover": "skiptrace/09-manual-skip-hard-records-shelby-county-tn/cover.jpg",
+        "cover_square": "skiptrace/09-manual-skip-hard-records-shelby-county-tn/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "26/30"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "30"
+        },
+        {
+          "label": "Avg. research per record",
+          "value": "13 min"
+        }
+      ]
+    },
+    {
+      "id": "st-10",
+      "line": "skiptrace",
+      "title": "Tired Landlords · Marion County, IN · 44 Long-Hold Rentals",
+      "title_parts": [
+        "Tired Landlords",
+        "Marion County, IN",
+        "44 Long-Hold Rentals"
+      ],
+      "niche": "Tired landlords",
+      "region": "Marion County, IN",
+      "rows": 44,
+      "layout": "cards",
+      "criteria": "Absentee owners holding rentals 10+ years · Indianapolis & Lawrence · skip-traced",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Mailing Address",
+        "Mailing City",
+        "Mailing State",
+        "Years Owned",
+        "Units",
+        "Est. Rent / Month",
+        "Est. Value",
+        "Equity %",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/10-tired-landlords-marion-county-in",
+        "csv": "skiptrace/10-tired-landlords-marion-county-in/data.csv",
+        "xlsx": "skiptrace/10-tired-landlords-marion-county-in/data.xlsx",
+        "cover": "skiptrace/10-tired-landlords-marion-county-in/cover.jpg",
+        "cover_square": "skiptrace/10-tired-landlords-marion-county-in/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "42/44"
+        },
+        {
+          "label": "Avg. years owned",
+          "value": "22 yrs"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "64"
+        }
+      ]
+    },
+    {
+      "id": "st-11",
+      "line": "skiptrace",
+      "title": "Free & Clear Properties · Bexar County, TX · 40 Owners · $0 Mortgage",
+      "title_parts": [
+        "Free & Clear Properties",
+        "Bexar County, TX",
+        "40 Owners · $0 Mortgage"
+      ],
+      "niche": "Free & clear properties",
+      "region": "Bexar County, TX",
+      "rows": 40,
+      "layout": "poster",
+      "criteria": "No open mortgage on record · San Antonio, Converse, Leon Valley, Helotes",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Mortgage Balance",
+        "Est. Value",
+        "Years Owned",
+        "Owner Occupied",
+        "Absentee",
+        "Mailing Address (Full)",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Email 2",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/11-free-and-clear-bexar-county-tx",
+        "csv": "skiptrace/11-free-and-clear-bexar-county-tx/data.csv",
+        "xlsx": "skiptrace/11-free-and-clear-bexar-county-tx/data.xlsx",
+        "cover": "skiptrace/11-free-and-clear-bexar-county-tx/cover.jpg",
+        "cover_square": "skiptrace/11-free-and-clear-bexar-county-tx/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "38/40"
+        },
+        {
+          "label": "Avg. est. value",
+          "value": "$261K"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "50"
+        }
+      ]
+    },
+    {
+      "id": "st-12",
+      "line": "skiptrace",
+      "title": "Out-of-State Owners · Jefferson County, AL · 46 Records",
+      "title_parts": [
+        "Out-of-State Owners",
+        "Jefferson County, AL",
+        "46 Records"
+      ],
+      "niche": "Out-of-state owners",
+      "region": "Jefferson County, AL",
+      "rows": 46,
+      "layout": "tilemap",
+      "criteria": "Birmingham-area houses whose owners mail from other states · skip-traced",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Mailing Address",
+        "Mailing City",
+        "Mailing State",
+        "Mailing ZIP",
+        "Out of State",
+        "Property Type",
+        "Est. Value",
+        "Equity %",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/12-out-of-state-owners-jefferson-county-al",
+        "csv": "skiptrace/12-out-of-state-owners-jefferson-county-al/data.csv",
+        "xlsx": "skiptrace/12-out-of-state-owners-jefferson-county-al/data.xlsx",
+        "cover": "skiptrace/12-out-of-state-owners-jefferson-county-al/cover.jpg",
+        "cover_square": "skiptrace/12-out-of-state-owners-jefferson-county-al/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "44/46"
+        },
+        {
+          "label": "Owner home states",
+          "value": "12"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "66"
+        }
+      ]
+    },
+    {
+      "id": "st-13",
+      "line": "skiptrace",
+      "title": "Code-Violation Properties · Philadelphia, PA · 38 Records",
+      "title_parts": [
+        "Code-Violation Properties",
+        "Philadelphia, PA",
+        "38 Records"
+      ],
+      "niche": "Code-violation properties",
+      "region": "Philadelphia County, PA",
+      "rows": 38,
+      "layout": "brutal",
+      "criteria": "Open housing-code cases Mar–Oct 2026 · owners skip-traced for outreach",
+      "columns": [
+        "Case ID",
+        "Violation Type",
+        "Case Opened",
+        "Case Status",
+        "Fines (est.)",
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "ZIP",
+        "Property Type",
+        "Absentee",
+        "Mailing Address (Full)",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/13-code-violations-philadelphia-pa",
+        "csv": "skiptrace/13-code-violations-philadelphia-pa/data.csv",
+        "xlsx": "skiptrace/13-code-violations-philadelphia-pa/data.xlsx",
+        "cover": "skiptrace/13-code-violations-philadelphia-pa/cover.jpg",
+        "cover_square": "skiptrace/13-code-violations-philadelphia-pa/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "36/38"
+        },
+        {
+          "label": "Absentee owners",
+          "value": "23/38"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "35"
+        },
+        {
+          "label": "Numbers flagged DNC",
+          "value": "7"
+        }
+      ]
+    },
+    {
+      "id": "st-14",
+      "line": "skiptrace",
+      "title": "Expired & Withdrawn Listings · Clark County, NV · 36 Owners",
+      "title_parts": [
+        "Expired & Withdrawn Listings",
+        "Clark County, NV",
+        "36 Owners"
+      ],
+      "niche": "Expired & withdrawn listings",
+      "region": "Clark County, NV",
+      "rows": 36,
+      "layout": "glass",
+      "criteria": "Listings that expired or were withdrawn Aug–Oct 2026 · owners skip-traced",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Beds",
+        "Baths",
+        "Sq Ft",
+        "Last List Price",
+        "Days on Market",
+        "Listing Status",
+        "Status Date",
+        "Est. Value",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Email 2",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/14-expired-listings-clark-county-nv",
+        "csv": "skiptrace/14-expired-listings-clark-county-nv/data.csv",
+        "xlsx": "skiptrace/14-expired-listings-clark-county-nv/data.xlsx",
+        "cover": "skiptrace/14-expired-listings-clark-county-nv/cover.jpg",
+        "cover_square": "skiptrace/14-expired-listings-clark-county-nv/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "32/36"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "45"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "24/36"
+        },
+        {
+          "label": "Avg. days on market",
+          "value": "138"
+        }
+      ]
+    },
+    {
+      "id": "st-15",
+      "line": "skiptrace",
+      "title": "Vacant Land Owners · Horry County, SC · 42 Parcels",
+      "title_parts": [
+        "Vacant Land Owners",
+        "Horry County, SC",
+        "42 Parcels"
+      ],
+      "niche": "Vacant land owners",
+      "region": "Horry County, SC",
+      "rows": 42,
+      "layout": "topo",
+      "criteria": "Unimproved parcels 0.25–38 acres · many owners out of state · skip-traced",
+      "columns": [
+        "APN",
+        "Parcel Location",
+        "Acreage",
+        "Zoning",
+        "Road Frontage (ft)",
+        "Est. Value",
+        "Owner 1",
+        "Owner 2",
+        "Mailing Address",
+        "Mailing City",
+        "Mailing State",
+        "Out of State",
+        "Years Owned",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/15-vacant-land-horry-county-sc",
+        "csv": "skiptrace/15-vacant-land-horry-county-sc/data.csv",
+        "xlsx": "skiptrace/15-vacant-land-horry-county-sc/data.xlsx",
+        "cover": "skiptrace/15-vacant-land-horry-county-sc/cover.jpg",
+        "cover_square": "skiptrace/15-vacant-land-horry-county-sc/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "40/42"
+        },
+        {
+          "label": "Owners out of state",
+          "value": "24/42"
+        },
+        {
+          "label": "Total acres",
+          "value": "353"
+        }
+      ]
+    },
+    {
+      "id": "st-16",
+      "line": "skiptrace",
+      "title": "2–4 Unit Multifamily Owners · Milwaukee County, WI · 48 Records",
+      "title_parts": [
+        "2–4 Unit Multifamily Owners",
+        "Milwaukee County, WI",
+        "48 Records"
+      ],
+      "niche": "2–4 unit multifamily owners",
+      "region": "Milwaukee County, WI",
+      "rows": 48,
+      "layout": "filters",
+      "criteria": "Duplex, triplex & fourplex owners · absentee · 30%+ equity",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Property Type",
+        "Units",
+        "Year Built",
+        "Est. Value",
+        "Equity %",
+        "Absentee",
+        "Mailing Address (Full)",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "Phone 4",
+        "Phone 4 Type",
+        "Phone 4 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/16-multifamily-2-4-units-milwaukee-county-wi",
+        "csv": "skiptrace/16-multifamily-2-4-units-milwaukee-county-wi/data.csv",
+        "xlsx": "skiptrace/16-multifamily-2-4-units-milwaukee-county-wi/data.xlsx",
+        "cover": "skiptrace/16-multifamily-2-4-units-milwaukee-county-wi/cover.jpg",
+        "cover_square": "skiptrace/16-multifamily-2-4-units-milwaukee-county-wi/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "45/48"
+        },
+        {
+          "label": "Total units",
+          "value": "128"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "67"
+        }
+      ]
+    },
+    {
+      "id": "st-17",
+      "line": "skiptrace",
+      "title": "Long-Term Owners (20+ Years) · Jackson County, MO · 45 Records",
+      "title_parts": [
+        "Long-Term Owners (20+ Years)",
+        "Jackson County, MO",
+        "45 Records"
+      ],
+      "niche": "Long-term owners (20+ years)",
+      "region": "Jackson County, MO",
+      "rows": 45,
+      "layout": "editorial",
+      "criteria": "Same owner for 20–45 years · high equity · Kansas City, Independence, Raytown",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Purchase Year",
+        "Years Owned",
+        "Est. Value",
+        "Equity %",
+        "Owner Occupied",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/17-long-term-owners-jackson-county-mo",
+        "csv": "skiptrace/17-long-term-owners-jackson-county-mo/data.csv",
+        "xlsx": "skiptrace/17-long-term-owners-jackson-county-mo/data.xlsx",
+        "cover": "skiptrace/17-long-term-owners-jackson-county-mo/cover.jpg",
+        "cover_square": "skiptrace/17-long-term-owners-jackson-county-mo/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "41/45"
+        },
+        {
+          "label": "Avg. years owned",
+          "value": "32 yrs"
+        },
+        {
+          "label": "Landlines found",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "id": "st-18",
+      "line": "skiptrace",
+      "title": "Trustee-Sale Auction List · Riverside County, CA · 34 Properties · Nov 2026",
+      "title_parts": [
+        "Trustee-Sale Auction List",
+        "Riverside County, CA",
+        "34 Properties · Nov 2026"
+      ],
+      "niche": "Trustee-sale auction list",
+      "region": "Riverside County, CA",
+      "rows": 34,
+      "layout": "calendar",
+      "criteria": "Scheduled November 2026 trustee sales · owners skip-traced before sale date",
+      "columns": [
+        "Sale Date",
+        "Sale Time",
+        "Trustee Sale No.",
+        "Opening Bid (est.)",
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Est. Value",
+        "Est. Loan Balance",
+        "Equity %",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/18-trustee-sale-auction-list-riverside-county-ca",
+        "csv": "skiptrace/18-trustee-sale-auction-list-riverside-county-ca/data.csv",
+        "xlsx": "skiptrace/18-trustee-sale-auction-list-riverside-county-ca/data.xlsx",
+        "cover": "skiptrace/18-trustee-sale-auction-list-riverside-county-ca/cover.jpg",
+        "cover_square": "skiptrace/18-trustee-sale-auction-list-riverside-county-ca/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "31/34"
+        },
+        {
+          "label": "Avg. est. equity",
+          "value": "37%"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "37"
+        }
+      ]
+    },
+    {
+      "id": "st-19",
+      "line": "skiptrace",
+      "title": "Re-Skip of a Stale List · Oklahoma County, OK · 50 Records Refreshed",
+      "title_parts": [
+        "Re-Skip of a Stale List",
+        "Oklahoma County, OK",
+        "50 Records Refreshed"
+      ],
+      "niche": "Re-skip of a stale list",
+      "region": "Oklahoma County, OK",
+      "rows": 50,
+      "layout": "sheet",
+      "criteria": "Client list with dead numbers · re-skipped, old numbers kept for reference",
+      "columns": [
+        "Record ID",
+        "Owner 1",
+        "Property Address",
+        "City",
+        "ZIP",
+        "Old Phone (client)",
+        "Old Result",
+        "Change",
+        "New Phone 1",
+        "New Phone 1 Type",
+        "New Phone 1 Status",
+        "New Phone 2",
+        "New Phone 2 Type",
+        "New Phone 2 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/19-re-skip-stale-list-oklahoma-county-ok",
+        "csv": "skiptrace/19-re-skip-stale-list-oklahoma-county-ok/data.csv",
+        "xlsx": "skiptrace/19-re-skip-stale-list-oklahoma-county-ok/data.xlsx",
+        "cover": "skiptrace/19-re-skip-stale-list-oklahoma-county-ok/cover.jpg",
+        "cover_square": "skiptrace/19-re-skip-stale-list-oklahoma-county-ok/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Dead numbers replaced",
+          "value": "47/50"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "42"
+        },
+        {
+          "label": "Owners with 1+ phone",
+          "value": "47/50"
+        }
+      ]
+    },
+    {
+      "id": "st-20",
+      "line": "skiptrace",
+      "title": "Trust-Owned Properties → Trustees · Baltimore City, MD · 35 Records",
+      "title_parts": [
+        "Trust-Owned Properties → Trustees",
+        "Baltimore City, MD",
+        "35 Records"
+      ],
+      "niche": "Trust-owned properties",
+      "region": "Baltimore City, MD",
+      "rows": 35,
+      "layout": "report",
+      "criteria": "Homes titled to living or family trusts · trustee identified and skip-traced",
+      "columns": [
+        "Property Address",
+        "ZIP",
+        "Property Type",
+        "Trust Name",
+        "Trustee 1",
+        "Trustee 2",
+        "Mailing Address",
+        "Mailing City",
+        "Mailing State",
+        "Est. Value",
+        "Equity %",
+        "Trustee Phone 1",
+        "Trustee Phone 1 Type",
+        "Trustee Phone 1 Status",
+        "Trustee Phone 2",
+        "Trustee Phone 2 Type",
+        "Trustee Phone 2 Status",
+        "Trustee Phone 3",
+        "Trustee Phone 3 Type",
+        "Trustee Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/20-trust-owned-properties-baltimore-md",
+        "csv": "skiptrace/20-trust-owned-properties-baltimore-md/data.csv",
+        "xlsx": "skiptrace/20-trust-owned-properties-baltimore-md/data.xlsx",
+        "cover": "skiptrace/20-trust-owned-properties-baltimore-md/cover.jpg",
+        "cover_square": "skiptrace/20-trust-owned-properties-baltimore-md/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "31/35"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "36"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "26/35"
+        }
+      ]
+    },
+    {
+      "id": "st-21",
+      "line": "skiptrace",
+      "title": "Cash Buyers List · Dallas County, TX · 40 Active Buyers",
+      "title_parts": [
+        "Cash Buyers List",
+        "Dallas County, TX",
+        "40 Active Buyers"
+      ],
+      "niche": "Cash buyers list",
+      "region": "Dallas County, TX",
+      "rows": 40,
+      "layout": "metro",
+      "criteria": "Buyers with 2+ cash purchases in the last 12 months · contact person skip-traced",
+      "columns": [
+        "Buyer Name",
+        "Buyer Type",
+        "Contact Person",
+        "Purchases (12 mo)",
+        "Avg. Purchase Price",
+        "Last Purchase Date",
+        "Last Purchase Address",
+        "Target ZIPs",
+        "Mailing Address",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source"
+      ],
+      "paths": {
+        "folder": "skiptrace/21-cash-buyers-dallas-county-tx",
+        "csv": "skiptrace/21-cash-buyers-dallas-county-tx/data.csv",
+        "xlsx": "skiptrace/21-cash-buyers-dallas-county-tx/data.xlsx",
+        "cover": "skiptrace/21-cash-buyers-dallas-county-tx/cover.jpg",
+        "cover_square": "skiptrace/21-cash-buyers-dallas-county-tx/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Cash buys, last 12 mo",
+          "value": "221"
+        },
+        {
+          "label": "LLC buyers",
+          "value": "26"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "41"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "40/40"
+        }
+      ]
+    },
+    {
+      "id": "st-22",
+      "line": "skiptrace",
+      "title": "Single Owner Lookups · On-Demand · Mixed US · 30 Requests",
+      "title_parts": [
+        "Single Owner Lookups",
+        "On-Demand · Mixed US",
+        "30 Requests"
+      ],
+      "niche": "Single owner lookups (on demand)",
+      "region": "Mixed US · on-demand",
+      "rows": 30,
+      "layout": "phone",
+      "criteria": "One address at a time, sent by the client during the week · owner + phones + email",
+      "columns": [
+        "Request ID",
+        "Requested (CT)",
+        "Delivered (CT)",
+        "Turnaround (hrs)",
+        "Property Address",
+        "City",
+        "State",
+        "ZIP",
+        "Owner 1",
+        "Owner 2",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/22-single-owner-lookups-on-demand",
+        "csv": "skiptrace/22-single-owner-lookups-on-demand/data.csv",
+        "xlsx": "skiptrace/22-single-owner-lookups-on-demand/data.xlsx",
+        "cover": "skiptrace/22-single-owner-lookups-on-demand/cover.jpg",
+        "cover_square": "skiptrace/22-single-owner-lookups-on-demand/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "28/30"
+        },
+        {
+          "label": "Avg. turnaround",
+          "value": "4.3 h"
+        },
+        {
+          "label": "States",
+          "value": "12"
+        }
+      ]
+    },
+    {
+      "id": "st-23",
+      "line": "skiptrace",
+      "title": "Small Commercial Owners · Pierce County, WA · 36 Properties · Entity Research",
+      "title_parts": [
+        "Small Commercial Owners",
+        "Pierce County, WA",
+        "36 Properties · Entity Research"
+      ],
+      "niche": "Small commercial owners · entity research",
+      "region": "Pierce County, WA",
+      "rows": 36,
+      "layout": "scorecard",
+      "criteria": "Strip retail, small office & flex buildings · LLC → governor / member → contact",
+      "columns": [
+        "Property Address",
+        "City",
+        "ZIP",
+        "Property Type",
+        "Building Sq Ft",
+        "Est. Value",
+        "Entity Owner",
+        "Entity Type",
+        "Governor / Managing Member",
+        "Member Title",
+        "Registered Agent",
+        "Business Email",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "DNC (Any)",
+        "Confidence",
+        "Source",
+        "Notes"
+      ],
+      "paths": {
+        "folder": "skiptrace/23-commercial-entity-owners-pierce-county-wa",
+        "csv": "skiptrace/23-commercial-entity-owners-pierce-county-wa/data.csv",
+        "xlsx": "skiptrace/23-commercial-entity-owners-pierce-county-wa/data.xlsx",
+        "cover": "skiptrace/23-commercial-entity-owners-pierce-county-wa/cover.jpg",
+        "cover_square": "skiptrace/23-commercial-entity-owners-pierce-county-wa/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Members with a phone",
+          "value": "33/36"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "36"
+        },
+        {
+          "label": "Rows with an email",
+          "value": "33/36"
+        },
+        {
+          "label": "Numbers flagged DNC",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "id": "st-24",
+      "line": "skiptrace",
+      "title": "Stacked Distress List · Orleans Parish, LA · 40 Overlapping Records",
+      "title_parts": [
+        "Stacked Distress List",
+        "Orleans Parish, LA",
+        "40 Overlapping Records"
+      ],
+      "niche": "Stacked distress list",
+      "region": "Orleans Parish, LA",
+      "rows": 40,
+      "layout": "venn",
+      "criteria": "Owners on 2+ lists at once: absentee, vacant, tax-delinquent, code, pre-foreclosure",
+      "columns": [
+        "Owner 1",
+        "Owner 2",
+        "Property Address",
+        "Neighborhood",
+        "City",
+        "ZIP",
+        "Lists Matched",
+        "Stack Count",
+        "Priority",
+        "Absentee",
+        "Vacant",
+        "Tax-delinquent",
+        "Code violation",
+        "Pre-foreclosure",
+        "Est. Value",
+        "Equity %",
+        "Phone 1",
+        "Phone 1 Type",
+        "Phone 1 Status",
+        "Phone 2",
+        "Phone 2 Type",
+        "Phone 2 Status",
+        "Phone 3",
+        "Phone 3 Type",
+        "Phone 3 Status",
+        "DNC (Any)",
+        "Email 1",
+        "Confidence",
+        "Source"
+      ],
+      "paths": {
+        "folder": "skiptrace/24-stacked-distress-list-orleans-parish-la",
+        "csv": "skiptrace/24-stacked-distress-list-orleans-parish-la/data.csv",
+        "xlsx": "skiptrace/24-stacked-distress-list-orleans-parish-la/data.xlsx",
+        "cover": "skiptrace/24-stacked-distress-list-orleans-parish-la/cover.jpg",
+        "cover_square": "skiptrace/24-stacked-distress-list-orleans-parish-la/cover_square.jpg"
+      },
+      "stats": [
+        {
+          "label": "Owners with 1+ phone",
+          "value": "36/40"
+        },
+        {
+          "label": "Rows on 3+ lists",
+          "value": "22"
+        },
+        {
+          "label": "Mobile numbers",
+          "value": "50"
+        }
+      ]
+    }
+  ]
+}

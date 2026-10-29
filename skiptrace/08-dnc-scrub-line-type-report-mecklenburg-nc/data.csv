@@ -1,0 +1,62 @@
+﻿"DEMO SAMPLE · fictional data · every name, company, address, phone (555-01XX) and email in this file is invented for portfolio purposes · Zaid Mubbasher · B2B Lead Generation & Skip Tracing",,,,,,,,,,,,
+Record ID,Owner,Property Address,City,ZIP,Phone,Line Type,Phone Status,Federal DNC,Known Litigator,Client Suppression,Dialable,Action
+MK-5001,Owen Castellano,4755 Fenwhistle Ct,Charlotte,28275,(336) 555-0188,Landline,Active,Y,N,N,N,Remove from dial list
+MK-5001,Owen Castellano,4755 Fenwhistle Ct,Charlotte,28275,(980) 555-0159,Mobile,Active,N,N,N,Y,Dial
+MK-5002,Maeve Ibarra,18278 Wexmoor St,Pineville,28157,(704) 555-0137,Mobile,Active,N,N,N,Y,Dial
+MK-5003,Wyatt Stroud,7142 Marrowgate Pl,Mint Hill,28207,(704) 555-0124,Mobile,Active,N,N,N,Y,Dial
+MK-5003,Wyatt Stroud,7142 Marrowgate Pl,Mint Hill,28207,(984) 555-0115,Mobile,Active,N,N,N,Y,Dial
+MK-5004,Tanya Dubois,9810 Calderwick Way,Pineville,28155,(704) 555-0144,Mobile,Unverified,N,N,N,Y,Dial
+MK-5005,Russell Bergeron,6344 Quarrystone Loop,Charlotte,28295,(980) 555-0185,Landline,Active,N,N,N,Y,Dial
+MK-5005,Russell Bergeron,6344 Quarrystone Loop,Charlotte,28295,(980) 555-0151,VoIP,Active,N,Y,Y,N,Remove from dial list
+MK-5006,Rachel Underwood,691 Underhill Ln,Charlotte,28295,(984) 555-0105,Mobile,Active,N,N,N,Y,Dial
+MK-5006,Rachel Underwood,691 Underhill Ln,Charlotte,28295,(704) 555-0177,Mobile,Disconnected,N,N,N,N,Re-skip
+MK-5006,Rachel Underwood,691 Underhill Ln,Charlotte,28295,(980) 555-0174,Mobile,Unverified,N,N,N,Y,Dial
+MK-5007,Derek Navarro,17846 Ravensmoor Pl,Charlotte,28274,(980) 555-0132,Landline,Active,N,N,N,Y,Dial
+MK-5007,Derek Navarro,17846 Ravensmoor Pl,Charlotte,28274,(704) 555-0145,Mobile,Active,N,N,Y,N,Remove from dial list
+MK-5008,Yusuf Pacheco,6910 Mirabrook Rd,Cornelius,28003,(980) 555-0138,Mobile,Active,N,N,N,Y,Dial
+MK-5008,Yusuf Pacheco,6910 Mirabrook Rd,Cornelius,28003,(910) 555-0194,VoIP,Active,N,N,N,Y,Dial
+MK-5009,Bethany Ueda,1565 Quillmere Way,Mint Hill,28270,(704) 555-0174,Mobile,Active,N,N,N,Y,Dial
+MK-5009,Bethany Ueda,1565 Quillmere Way,Mint Hill,28270,(704) 555-0189,Mobile,Active,N,N,N,Y,Dial
+MK-5010,Nadia Lindgren,14816 Hartwhistle Blvd,Matthews,28161,(980) 555-0115,Mobile,Active,N,Y,N,N,Remove from dial list
+MK-5010,Nadia Lindgren,14816 Hartwhistle Blvd,Matthews,28161,(704) 555-0138,VoIP,Active,Y,Y,N,N,Remove from dial list
+MK-5010,Nadia Lindgren,14816 Hartwhistle Blvd,Matthews,28161,(704) 555-0115,Mobile,Active,N,N,N,Y,Dial
+MK-5010,Nadia Lindgren,14816 Hartwhistle Blvd,Matthews,28161,(919) 555-0171,Landline,Active,Y,N,N,N,Remove from dial list
+MK-5011,Derek Brightwell,6013 Pellingham Ln,Mint Hill,28222,(704) 555-0163,Mobile,Active,N,N,N,Y,Dial
+MK-5011,Derek Brightwell,6013 Pellingham Ln,Mint Hill,28222,(704) 555-0119,Mobile,Disconnected,N,N,N,N,Re-skip
+MK-5012,Valerie Castillo,7480 Netherby Blvd,Matthews,28126,(704) 555-0110,VoIP,Active,N,N,N,Y,Dial
+MK-5012,Valerie Castillo,7480 Netherby Blvd,Matthews,28126,(704) 555-0129,Mobile,Active,N,N,N,Y,Dial
+MK-5013,Simon Winslow,3747 Brackenhold Ln,Cornelius,28033,(704) 555-0132,VoIP,Active,N,N,N,Y,Dial
+MK-5013,Simon Winslow,3747 Brackenhold Ln,Cornelius,28033,(704) 555-0111,Landline,Active,N,N,N,Y,Dial
+MK-5014,Owen Prescott,8593 Drummondale Way,Charlotte,28286,(980) 555-0177,Mobile,Active,N,N,N,Y,Dial
+MK-5014,Owen Prescott,8593 Drummondale Way,Charlotte,28286,(704) 555-0133,Mobile,Disconnected,Y,N,N,N,Re-skip
+MK-5015,Priya Lachance,6622 Pennacrest Trl,Mint Hill,28205,(704) 555-0108,Landline,Active,Y,N,N,N,Remove from dial list
+MK-5015,Priya Lachance,6622 Pennacrest Trl,Mint Hill,28205,(704) 555-0101,Mobile,Active,N,N,N,Y,Dial
+MK-5016,Emeka Oyelaran,6111 Inglenook Ct,Charlotte,28287,(910) 555-0146,Mobile,Active,N,N,N,Y,Dial
+MK-5016,Emeka Oyelaran,6111 Inglenook Ct,Charlotte,28287,(980) 555-0171,Landline,Active,Y,N,N,N,Remove from dial list
+MK-5017,Zachary Novak,3053 Corvalline Blvd,Charlotte,28286,(704) 555-0187,VoIP,Unverified,N,N,N,Y,Dial
+MK-5018,Xavier Ramaswamy,8384 Hollisbrook Pl,Cornelius,28003,(704) 555-0121,Landline,Active,N,N,N,Y,Dial
+MK-5018,Xavier Ramaswamy,8384 Hollisbrook Pl,Cornelius,28003,(704) 555-0142,Landline,Active,N,N,N,Y,Dial
+MK-5018,Xavier Ramaswamy,8384 Hollisbrook Pl,Cornelius,28003,(704) 555-0193,Landline,Active,N,N,N,Y,Dial
+MK-5019,Irene Sandoval,17758 Grisdale Dr,Charlotte,28282,(980) 555-0183,Mobile,Active,N,N,N,Y,Dial
+MK-5019,Irene Sandoval,17758 Grisdale Dr,Charlotte,28282,(704) 555-0135,Landline,Unverified,N,N,N,Y,Dial
+MK-5019,Irene Sandoval,17758 Grisdale Dr,Charlotte,28282,(704) 555-0102,Landline,Disconnected,Y,N,N,N,Re-skip
+MK-5020,Paige Ellsworth,12812 Marrowgate Pl,Huntersville,28047,(704) 555-0143,Mobile,Active,N,N,N,Y,Dial
+MK-5020,Paige Ellsworth,12812 Marrowgate Pl,Huntersville,28047,(704) 555-0109,Mobile,Disconnected,N,N,N,N,Re-skip
+MK-5021,Aisha Villanueva,9556 Jessamine Ln,Huntersville,28065,(704) 555-0120,Mobile,Active,N,N,N,Y,Dial
+MK-5021,Aisha Villanueva,9556 Jessamine Ln,Huntersville,28065,(704) 555-0127,Mobile,Active,N,N,N,Y,Dial
+MK-5022,Nolan Quinlan,9486 Orlavine Rd,Huntersville,28090,(704) 555-0123,VoIP,Active,N,N,N,Y,Dial
+MK-5022,Nolan Quinlan,9486 Orlavine Rd,Huntersville,28090,(704) 555-0156,Landline,Active,N,N,N,Y,Dial
+MK-5022,Nolan Quinlan,9486 Orlavine Rd,Huntersville,28090,(704) 555-0136,Mobile,Active,N,N,N,Y,Dial
+MK-5022,Nolan Quinlan,9486 Orlavine Rd,Huntersville,28090,(704) 555-0106,Mobile,Active,N,N,N,Y,Dial
+MK-5023,Lorenzo Patel,1458 Brackenhold Ter,Charlotte,28253,(980) 555-0167,Mobile,Active,N,Y,N,N,Remove from dial list
+MK-5023,Lorenzo Patel,1458 Brackenhold Ter,Charlotte,28253,(980) 555-0199,Mobile,Active,N,N,Y,N,Remove from dial list
+MK-5024,Ethan Ferreira,9786 Ravensmoor Trl,Charlotte,28268,(704) 555-0169,Mobile,Active,N,N,N,Y,Dial
+MK-5024,Ethan Ferreira,9786 Ravensmoor Trl,Charlotte,28268,(980) 555-0142,Landline,Active,N,N,N,Y,Dial
+MK-5025,Holly Kessler,8204 Mirabrook Way,Charlotte,28273,(704) 555-0140,Mobile,Active,N,N,N,Y,Dial
+MK-5025,Holly Kessler,8204 Mirabrook Way,Charlotte,28273,(704) 555-0103,Mobile,Active,N,N,N,Y,Dial
+MK-5026,Nadia Delgado,15851 Ivorygate Trl,Charlotte,28286,(980) 555-0190,Landline,Active,Y,N,N,N,Remove from dial list
+MK-5026,Nadia Delgado,15851 Ivorygate Trl,Charlotte,28286,(704) 555-0164,Mobile,Disconnected,N,N,N,N,Re-skip
+MK-5026,Nadia Delgado,15851 Ivorygate Trl,Charlotte,28286,(980) 555-0144,Mobile,Unverified,N,N,N,Y,Dial
+MK-5026,Nadia Delgado,15851 Ivorygate Trl,Charlotte,28286,(980) 555-0160,Mobile,Active,N,N,N,Y,Dial
+MK-5027,Jolene Lachance,2256 Inglenook Ave,Matthews,28199,(704) 555-0114,Mobile,Active,N,N,N,Y,Dial
+MK-5027,Jolene Lachance,2256 Inglenook Ave,Matthews,28199,(704) 555-0180,Mobile,Unverified,N,N,Y,N,Remove from dial list

@@ -1,0 +1,47 @@
+﻿"DEMO SAMPLE · fictional data · every name, company, address, phone (555-01XX) and email in this file is invented for portfolio purposes · Zaid Mubbasher · B2B Lead Generation & Skip Tracing",,,,,,,,,,,,,,,,,,,,,,,
+Owner 1,Owner 2,Property Address,City,ZIP,Purchase Year,Years Owned,Est. Value,Equity %,Owner Occupied,Phone 1,Phone 1 Type,Phone 1 Status,Phone 2,Phone 2 Type,Phone 2 Status,Phone 3,Phone 3 Type,Phone 3 Status,DNC (Any),Email 1,Confidence,Source,Notes
+Priya Dubois,,5117 Ambermoor Pkwy,Kansas City,64165,1981,45,276000,87,Y,(816) 555-0118,VoIP,Active,(816) 555-0195,Landline,Disconnected,(417) 555-0161,Mobile,Active,Y,priya.dubois@example.net,High,REISkip,
+Darnell Lemieux,,5954 Foxmeade Loop,Independence,64055,1981,45,160000,95,Y,(816) 555-0125,Mobile,Active,(816) 555-0140,Mobile,Active,,,,N,dlemieux19@example.net,High,DealMachine,Owner 2 on deed
+David Vanderberg,,9114 Zellwood Trl,Raytown,64121,1987,39,182000,98,Y,(314) 555-0178,Landline,Active,(816) 555-0110,Landline,Active,(816) 555-0198,VoIP,Active,N,vanderberg.david96@example.org,High,PropStream + BatchData,Owner-occupied since purchase
+Zane Yamamoto,,6982 Ambermoor Ln,Raytown,64119,2002,24,202000,89,Y,(816) 555-0117,Landline,Unverified,(573) 555-0114,Mobile,Active,,,,N,zane_yamamoto@example.com,Low,REISkip,
+Sergio Esposito,Quinn Esposito,18544 Tumbleford Ct,Kansas City,64144,2002,24,232000,75,N,(417) 555-0176,Mobile,Active,(816) 555-0143,Landline,Disconnected,,,,Y,sesposito84@example.org,High,REISkip,
+Michael Navarro,,3409 Grisdale Ln,Kansas City,64167,1982,44,160000,98,N,(417) 555-0148,Mobile,Active,,,,,,,N,michael_navarro@example.com,High,BatchData,
+Fatima Yamamoto,,10973 Birchavon Rd,Lee's Summit,64053,1993,33,167000,70,Y,(816) 555-0184,Mobile,Active,(816) 555-0135,Mobile,Active,,,,N,fatimay67@example.com,High,BatchData,
+Gordon Farouk,,6688 Orlavine Ln,Independence,64013,2005,21,185000,82,N,(980) 555-0178,VoIP,Active,(980) 555-0160,Mobile,Active,,,,N,gordon.farouk@example.net,High,REISkip,
+Ahmed Jiang,,4154 Hollisbrook Cir,Kansas City,64139,1987,39,241000,74,Y,(816) 555-0139,Mobile,Active,(816) 555-0100,Mobile,Active,,,,Y,ahmed.jiang@example.net,High,REISkip,
+Ana Hollis,Marisol Hollis,14217 Quarrystone Pkwy,Raytown,64178,2004,22,189000,86,Y,(314) 555-0145,Mobile,Active,(417) 555-0193,Mobile,Active,(816) 555-0130,Mobile,Unverified,N,anah11@example.com,High,REISkip,
+Dmitri Pacheco,,10662 Pennacrest Trl,Kansas City,64146,1990,36,189000,72,N,(816) 555-0191,Landline,Active,,,,,,,Y,dmitri_pacheco@example.net,Medium,REISkip,Landline-only household
+Nadia Jovanovic,,7954 Calderwick Dr,Kansas City,64150,1991,35,261000,74,Y,(816) 555-0132,Landline,Active,,,,,,,N,nadia.jovanovic@example.org,Medium,PropStream + BatchData,Owner 2 on deed
+Fatima Bergeron,,2488 Brackenhold Loop,Kansas City,64151,2004,22,292000,88,Y,(816) 555-0177,Mobile,Active,(314) 555-0171,Mobile,Active,(816) 555-0175,Landline,Disconnected,N,fbergeron50@example.com,High,REISkip,
+Jerome Underwood,,4570 Dovemarch Ave,Independence,64053,2000,26,290000,93,Y,(816) 555-0145,Mobile,Active,(417) 555-0153,Mobile,Active,,,,N,junderwood52@example.com,High,REISkip,Owner 2 on deed
+Ximena Galloway,Rosa Galloway,5009 Orlavine Way,Raytown,64141,1996,30,182000,75,N,(417) 555-0179,Mobile,Active,(816) 555-0151,Mobile,Disconnected,,,,Y,,Medium,BatchData,
+Wade Kessler,,8285 Elderwood Cir,Kansas City,64196,2003,23,190000,98,N,(816) 555-0186,Mobile,Active,,,,,,,N,wade_kessler@example.com,High,REISkip,Landline-only household
+Zane Brightwell,,8630 Jessamine Ter,Raytown,64194,1981,45,150000,86,Y,(816) 555-0111,Mobile,Active,(816) 555-0193,VoIP,Active,,,,N,zane_brightwell@example.net,High,BatchData,Owner 2 on deed
+Rafael Fujita,,5257 Grisdale Ter,Independence,64042,1990,36,182000,70,N,(816) 555-0189,Mobile,Active,(417) 555-0188,Mobile,Disconnected,,,,N,rafael_fujita@example.net,High,BatchData,Owner 2 on deed
+Brian Ishikawa,,455 Pennacrest Ave,Raytown,64105,1989,37,266000,66,N,(816) 555-0107,VoIP,Active,(816) 555-0170,Mobile,Unverified,,,,N,briani85@example.net,Medium,BatchData,
+Vanessa Takahashi,Kendra Takahashi,6120 Silverquill St,Grandview,64053,1987,39,230000,98,Y,(417) 555-0145,Landline,Active,(816) 555-0163,Mobile,Active,(816) 555-0166,Mobile,Disconnected,N,vtakahashi28@example.com,High,REISkip,Owner 2 on deed
+Leon Fairbanks,,7989 Ravensmoor Cir,Kansas City,64184,1998,28,185000,76,Y,(816) 555-0109,Landline,Unverified,(573) 555-0196,Mobile,Active,(314) 555-0169,Landline,Disconnected,Y,leon_fairbanks@example.com,Low,REISkip,
+Odette Brightwell,,220 Wexmoor Loop,Kansas City,64115,1998,28,159000,73,N,(816) 555-0171,VoIP,Active,(816) 555-0131,Mobile,Active,(816) 555-0174,Mobile,Unverified,N,brightwell.odette88@example.com,High,BatchData,Owner 2 on deed
+Camille Patel,,11526 Hartwhistle Way,Independence,64050,2006,20,184000,78,Y,(573) 555-0157,VoIP,Active,(816) 555-0105,Mobile,Active,(816) 555-0178,Mobile,Active,N,camille.patel@example.net,High,REISkip,
+Ingrid Mahoney,,9720 Larchwick Loop,Blue Springs,64070,1988,38,268000,86,Y,(314) 555-0163,Landline,Active,,,,,,,Y,ingrid.mahoney@example.net,Medium,BatchData,
+Jamal Pemberton,,3448 Fenwhistle Loop,Kansas City,64129,1988,38,164000,74,Y,(816) 555-0141,Landline,Active,(816) 555-0129,Mobile,Active,(816) 555-0120,Mobile,Disconnected,Y,jpemberton56@example.org,High,PropStream + BatchData,
+Megan Szabo,,6112 Fenwhistle Ave,Kansas City,64164,1984,42,281000,86,Y,(573) 555-0166,Mobile,Active,(816) 555-0102,Mobile,Active,(816) 555-0122,Mobile,Unverified,Y,megans35@example.org,High,REISkip,
+Ana Rutherford,,3960 Brackenhold St,Kansas City,64109,1996,30,283000,62,Y,(816) 555-0144,Mobile,Active,(816) 555-0168,Mobile,Active,,,,Y,ana_rutherford@example.com,High,BatchData,Landline-only household
+Warren Novak,,4901 Silverquill Ct,Independence,64065,1988,38,200000,73,Y,(417) 555-0163,Mobile,Active,(816) 555-0180,Mobile,Active,(573) 555-0165,Mobile,Active,N,warrenn71@example.org,High,REISkip,
+Rafael Stroud,,6350 Foxmeade Ter,Lee's Summit,64090,1997,29,303000,76,Y,(816) 555-0116,Mobile,Unverified,(816) 555-0162,Mobile,Disconnected,,,,N,,Low,REISkip,
+Irene Moreau,Lauren Moreau,6682 Wendleshire St,Blue Springs,64059,1981,45,264000,88,Y,(816) 555-0149,Mobile,Unverified,,,,,,,N,irenemoreau34@example.com,Low,BatchData,
+Denise Fairbanks,,5171 Quillmere Ter,Kansas City,64170,2002,24,168000,73,Y,(816) 555-0106,Mobile,Active,(816) 555-0121,Mobile,Active,,,,N,,High,PropStream + BatchData,Owner 2 on deed
+Derek Castillo,,4751 Dovemarch St,Raytown,64172,1988,38,142000,65,Y,(816) 555-0127,Landline,Active,(816) 555-0160,Landline,Active,,,,Y,castillo.derek21@example.com,High,BatchData,
+Holly Chaudhry,,15673 Wexmoor Rd,Lee's Summit,64088,1990,36,204000,98,N,(816) 555-0124,Landline,Active,(816) 555-0126,Mobile,Active,(417) 555-0189,Mobile,Disconnected,N,hollyc11@example.com,High,DealMachine,Owner-occupied since purchase
+Oksana Duvall,Xavier Duvall,4590 Hartwhistle Ave,Kansas City,64119,2001,25,221000,68,Y,(573) 555-0126,VoIP,Active,(314) 555-0122,Mobile,Unverified,,,,N,oksana.duvall@example.org,Medium,REISkip,
+Lorenzo Sorensen,,6428 Juniveil Rd,Kansas City,64170,2004,22,154000,80,Y,(573) 555-0161,Landline,Active,(314) 555-0133,Landline,Disconnected,(816) 555-0176,Mobile,Active,Y,lorenzo.sorensen@example.com,High,BatchData,Owner-occupied since purchase
+Leilani Ortega,Simon Ortega,4101 Quarrystone Ln,Kansas City,64155,1983,43,200000,99,Y,(417) 555-0113,VoIP,Active,(816) 555-0192,Mobile,Active,,,,N,leilani.ortega@example.net,High,REISkip,
+Gloria Patel,,9382 Tallowmere Ave,Raytown,64140,2001,25,227000,97,Y,(314) 555-0181,Mobile,Active,(417) 555-0180,Mobile,Active,(816) 555-0136,Landline,Active,N,gloriapatel69@example.org,High,BatchData,
+Ingrid Ziegler,Simon Ziegler,19653 Foxmeade Loop,Kansas City,64182,1993,33,202000,74,N,(614) 555-0195,Mobile,Active,(937) 555-0112,VoIP,Active,(614) 555-0135,Mobile,Active,N,,High,REISkip,
+Jennifer Kowalczyk,,5251 Thistlewade Blvd,Independence,64084,1991,35,132000,88,Y,(573) 555-0155,Mobile,Active,(816) 555-0148,VoIP,Disconnected,,,,Y,kowalczyk.jennifer34@example.net,High,PropStream + BatchData,Owner-occupied since purchase
+Sergio Winslow,,17768 Wexmoor Ave,Independence,64053,1986,40,202000,62,N,(314) 555-0117,Landline,Active,,,,,,,N,sergiowinslow80@example.com,Medium,REISkip,
+Vincent Mahoney,Neil Mahoney,7703 Elderwood Ave,Raytown,64118,2000,26,144000,97,N,(816) 555-0158,Mobile,Active,,,,,,,N,vmahoney68@example.org,High,BatchData,
+Dmitri Navarro,,482 Marrowgate Trl,Kansas City,64107,2000,26,286000,65,N,,,,,,,,,,N,,Low,BatchData,No match from tool · queued for manual research
+Gemma Sorensen,Lauren Sorensen,1721 Quarrystone Cir,Grandview,64006,1988,38,146000,71,Y,,,,,,,,,,N,,Low,REISkip,No match from tool · queued for manual research
+Hiro Jankowski,,3302 Kilnwood Ln,Grandview,64014,1999,27,231000,77,Y,,,,,,,,,,N,,Low,PropStream + BatchData,No match from tool · queued for manual research
+Tanya Prescott,,9365 Vintonbrook Way,Kansas City,64151,2005,21,294000,73,Y,,,,,,,,,,N,,Low,BatchData,No match from tool · queued for manual research
